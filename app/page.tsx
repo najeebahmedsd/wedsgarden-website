@@ -202,7 +202,7 @@ export default function Home() {
 
     <div className="flex flex-col items-center">
   <p className="text-sm text-black/70">
-    © 2026 Weds Garden A/C Function Hall
+    © 2019 Weds Garden A/C Function Hall
   </p>
 
   <p className="text-sm text-black/50">

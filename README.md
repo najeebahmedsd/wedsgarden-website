@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Weds Garden A/C Function Hall Website
 
-## Getting Started
+Official website for **Weds Garden A/C Function Hall**, Hyderabad, Telangana.
 
-First, run the development server:
+This website was built using **Next.js, React, TypeScript, and Tailwind CSS** and deployed using **Vercel**.  
+It provides visitors with information about the venue, facilities, gallery images, location, and social media links.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## Live Website
+
+Visit the live website:
+
+https://wedsgarden.com
+
+---
+
+## Features
+
+- Modern responsive design
+- Venue image gallery
+- Facilities section
+- Google Maps location integration
+- Social media integration (Instagram, Facebook, X)
+- Mobile-friendly layout
+- Fast deployment using Vercel
+
+---
+
+## Technologies Used
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Git
+- GitHub
+- Vercel
+
+---
+
+## Project Setup
+
+Clone the repository
+
+```
+git clone https://github.com/najeebahmedsd/wedsgarden-website.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Install dependencies
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Run the development server
 
-## Learn More
+```
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Open your browser and go to
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+http://localhost:3000
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The website is deployed using **Vercel** and automatically updates when changes are pushed to the GitHub repository.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Author
+
+Developed by **Najeeb Ahmed**

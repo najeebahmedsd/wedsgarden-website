@@ -11,7 +11,7 @@ It provides visitors with information about the venue, facilities, gallery image
 
 Visit the live website:
 
-https://wedsgarden.com
+https://wedsgarden-website.vercel.app/
 
 ---
 

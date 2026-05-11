@@ -206,7 +206,7 @@ export default function Home() {
   </p>
 
   <p className="text-sm text-black/50">
-    @N
+    
   </p>
 </div>
 
